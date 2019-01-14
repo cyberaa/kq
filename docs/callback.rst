@@ -29,6 +29,7 @@ initialization.
 .. testcode::
 
     from kafka import KafkaConsumer
+    import kq
     from kq import Worker
 
 
